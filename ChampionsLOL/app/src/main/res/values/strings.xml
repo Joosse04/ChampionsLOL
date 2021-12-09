@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Champions League of Legends</string>
+    <string name="add_string">add</string>
+    <string name="weight_unit">kg</string>
+    <string name="height_unit">dm</string>
+    <string name="default_type">«Seleccione tipo»</string>
+    <string name="ivChampion">ivChampion</string>
+    <string name="btCancel">Cancel</string>
+    <string name="btEdit">Edit</string>
+    <string name="btAdd">Add</string>
+    <string name="etName">Name</string>
+    <string name="etRole">Role</string>
+    <string name="etDifficulty">Difficulty</string>
+    <string name="etUrl">Url</string>
+    <string name="ivLOL">ivLOL</string>
+    <string name="btDelete">Delete</string>
+    <string name="tvNameTitle">Name:</string>
+    <string name="tvTypeTitle">Type:</string>
+    <string name="tvDifficulty">Difficulty:</string>
+    <string name="tvRoleTitle">Role:</string>
+    <string name="tvUrlTitle">Url:</string>
+</resources>
